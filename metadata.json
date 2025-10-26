@@ -1,0 +1,5 @@
+{
+  "name": "Psychology Clinic Inquiry Manager",
+  "description": "A secure and confidential platform for clients to submit inquiries to a psychology clinic. The system ensures anonymity between clients and therapists, with an AI-powered feature to assist therapists in drafting supportive responses.",
+  "requestFramePermissions": []
+}
